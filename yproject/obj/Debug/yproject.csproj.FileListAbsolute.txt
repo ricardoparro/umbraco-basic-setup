@@ -1,0 +1,76 @@
+C:\Projects\yproject\yproject\yproject\bin\yproject.dll.config
+C:\Projects\yproject\yproject\yproject\bin\yproject.dll
+C:\Projects\yproject\yproject\yproject\bin\yproject.pdb
+C:\Projects\yproject\yproject\yproject\bin\AutoMapper.xml
+C:\Projects\yproject\yproject\yproject\bin\businesslogic.xml
+C:\Projects\yproject\yproject\yproject\bin\ClientDependency.Core.Mvc.pdb
+C:\Projects\yproject\yproject\yproject\bin\cms.xml
+C:\Projects\yproject\yproject\yproject\bin\controls.xml
+C:\Projects\yproject\yproject\yproject\bin\HtmlAgilityPack.pdb
+C:\Projects\yproject\yproject\yproject\bin\HtmlAgilityPack.xml
+C:\Projects\yproject\yproject\yproject\bin\interfaces.xml
+C:\Projects\yproject\yproject\yproject\bin\Lucene.Net.xml
+C:\Projects\yproject\yproject\yproject\bin\MiniProfiler.pdb
+C:\Projects\yproject\yproject\yproject\bin\MiniProfiler.xml
+C:\Projects\yproject\yproject\yproject\bin\umbraco.xml
+C:\Projects\yproject\yproject\yproject\bin\Umbraco.Core.xml
+C:\Projects\yproject\yproject\yproject\bin\umbraco.DataLayer.xml
+C:\Projects\yproject\yproject\yproject\bin\umbraco.editorControls.xml
+C:\Projects\yproject\yproject\yproject\bin\umbraco.MacroEngines.xml
+C:\Projects\yproject\yproject\yproject\bin\umbraco.providers.xml
+C:\Projects\yproject\yproject\yproject\obj\Debug\yproject.csprojResolveAssemblyReference.cache
+C:\Projects\yproject\yproject\yproject\obj\Debug\yproject.dll
+C:\Projects\yproject\yproject\yproject\obj\Debug\yproject.pdb
+C:\Users\Ricardo Parro\yproject\yproject\bin\yproject.dll.config
+C:\Users\Ricardo Parro\yproject\yproject\bin\yproject.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\yproject.pdb
+C:\Users\Ricardo Parro\yproject\yproject\bin\AutoMapper.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\AutoMapper.Net4.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\businesslogic.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\ClientDependency.Core.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\cms.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\controls.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\Examine.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\HtmlAgilityPack.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\interfaces.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\log4net.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\Lucene.Net.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\Microsoft.Web.Helpers.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\MiniProfiler.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\MySql.Data.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\SQLCE4Umbraco.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\TidyNet.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\Umbraco.Core.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.DataLayer.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.editorControls.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.MacroEngines.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.providers.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\Umbraco.Web.UI.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.XmlSerializers.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\UmbracoExamine.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Ricardo Parro\yproject\yproject\bin\AutoMapper.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\businesslogic.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Ricardo Parro\yproject\yproject\bin\cms.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\controls.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\HtmlAgilityPack.pdb
+C:\Users\Ricardo Parro\yproject\yproject\bin\HtmlAgilityPack.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\interfaces.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\Lucene.Net.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\MiniProfiler.pdb
+C:\Users\Ricardo Parro\yproject\yproject\bin\MiniProfiler.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\Umbraco.Core.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.DataLayer.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.editorControls.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.MacroEngines.xml
+C:\Users\Ricardo Parro\yproject\yproject\bin\umbraco.providers.xml
+C:\Users\Ricardo Parro\yproject\yproject\obj\Debug\yproject.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo Parro\yproject\yproject\obj\Debug\yproject.dll
+C:\Users\Ricardo Parro\yproject\yproject\obj\Debug\yproject.pdb
